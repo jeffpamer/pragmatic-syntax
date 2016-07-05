@@ -1,5 +1,5 @@
 # pragmatic-syntax theme
 
-A short description of your theme.
+An ultra-minimal syntax theme inspired by code samples for the excellent [PragmatoPro](http://www.fsd.it/shop/fonts/pragmatapro/) font. Who needs all those colors anyway?
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+(![example](https://cloud.githubusercontent.com/assets/888818/16588541/768384dc-429d-11e6-8609-2082d198afa4.png)
